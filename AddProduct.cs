@@ -1,4 +1,4 @@
-﻿using Claudice_Inguanzo_C968.model;
+using C968.model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
