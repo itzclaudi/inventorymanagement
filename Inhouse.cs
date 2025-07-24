@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Claudice_Inguanzo_C968.model
+namespace C968.model
 {
     public class Inhouse : Part
     {
