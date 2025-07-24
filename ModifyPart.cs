@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
-using Claudice_Inguanzo_C968.model;
+using C968.model;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace C968
