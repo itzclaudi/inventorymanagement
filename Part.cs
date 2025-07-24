@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Claudice_Inguanzo_C968.model
+namespace C968.model
 {
     public abstract class Part
     {
