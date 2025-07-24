@@ -1,8 +1,8 @@
 # Inventory Management System
 
-##How It Was Made: C#
+## How It Was Made: C#
 
-##Application Requirements:
+## Application Requirements:
 I. GUI
 
 A. A main form, showing the following controls: • buttons for “Add,” “Modify,” “Delete,” “Search” for parts and products, and “Exit” • lists for parts and products • text boxes for searching for parts and products • title labels for parts, products, and the application title
